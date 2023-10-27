@@ -1,0 +1,5 @@
+C:\Users\maris\source\repos\magic8ball\bin\Release\net6.0-windows\app.publish\magic8ball.exe
+C:\Users\maris\source\repos\magic8ball\bin\Release\net6.0-windows\app.publish\magic8ball.dll
+C:\Users\maris\source\repos\magic8ball\bin\Release\net6.0-windows\app.publish\magic8ball.deps.json
+C:\Users\maris\source\repos\magic8ball\bin\Release\net6.0-windows\app.publish\magic8ball.runtimeconfig.json
+C:\Users\maris\source\repos\magic8ball\bin\Release\net6.0-windows\app.publish\magic8ball.pdb

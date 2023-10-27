@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AcaLwlUxgBnN3rWjV5N75MlyQoHY3iQ6HZlTbXR/VGDa91ETOUk1OHEo16zbPCniT4Ck/3nQ9OTUV9J7dsPSmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maris\\source\\repos\\magic8ball\\magic8ball.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maris\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\maris\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\maris\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\maris\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
